@@ -14,4 +14,4 @@ void print_alphabet(void)
 		shukur++;
 	}
 	_putchar('\n');
-} 
+}
